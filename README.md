@@ -14,3 +14,9 @@ AWS EC2 우분투 서버에 스프링부트 앱을 Docker로 배포합니다.
 깃허브 액션으로 main 브랜치의 변경 사항을 자동 배포합니다.  
 
 배포하는 프론트엔드 서버(github pages)가 HTTPS를 사용하므로 CORS로 인해 백엔드도 HTTPS를 적용했습니다.
+
+### logback을 이용한 예외 로깅
+https://exuberant-savory-e0e.notion.site/Spring-logback-1296248714fb80deb137fde9d39803a4
+
+### Slack API를 이용한 예외 알림 기능
+https://exuberant-savory-e0e.notion.site/Spring-Slack-1296248714fb80c2ba68e608c160ccdc
